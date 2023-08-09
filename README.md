@@ -1,2 +1,2 @@
 # Fun
-Learning
+Learning JAvaScript
